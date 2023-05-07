@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Admin\Desktop\Game_SDL\Game_SDL\Zombie.h(22,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Game_SDL\Game_SDL\Zombie.h(23,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Game_SDL\Game_SDL\Zombie.h(64,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Game_SDL\Game_SDL\Zombie.h(65,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Game_SDL.vcxproj -> C:\Users\Admin\Desktop\Game_SDL\x64\Debug\Game_SDL.exe
